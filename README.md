@@ -17,7 +17,7 @@
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
-
+- typescript
 - bcryptjs
 - class-transformer
 - cors
